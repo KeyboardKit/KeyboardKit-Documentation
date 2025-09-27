@@ -9,21 +9,39 @@
 </p>
 
 
-# KeyboardKit Binaries
+# KeyboardKit Documentation
 
-This repository is used to host documentation for the latest public version of [KeyboardKit](https://keyboardkit.com). The documentation has getting-started guides, feature articles, code examples, etc.
+This repository is used to host documentation for the latest public version of [KeyboardKit][Website]. The documentation has getting-started guides, feature articles, code examples, etc.
 
 
-## KeyboardKit Repository
+## Website
 
-The [KeyboardKit repository][Repository] has a Swift Package that can be used to create KeyboardKit-based keyboard apps for all major Apple platforms.
+The [KeyboardKit website][Website] has information about KeyboardKit and KeyboardKit Pro, a blog, articles, etc.
 
-The repository has additional resources and a demo app that shows you how to set up and configure KeyboardKit.
+
+## Project
+
+The [KeyboardKit repository][Repository] has a Swift Package that can be used to create keyboard apps for all Apple platforms.
+
+
+## Binaries
+
+The [KeyboardKit Binaries repository][Binaries-repo] is used to store binary builds for each version of the KeyboardKit SDK.
+
+
+## Documentation
+
+The [KeyboardKit online documentation][Documentation] has a getting-started guide, articles for each feature, code samples, etc.
+
+
+## Demo App
+
+The [KeyboardKit repository][Repository] has a demo app that shows you how to set up and configure KeyboardKit.
 
 
 ## Contact
 
-Feel free to reach out if you have questions or if you want to contribute in any way:
+Feel free to reach out if you have any questions:
 
 * Website: [keyboardkit.com][Website]
 * E-mail: [info@keyboardkit.com][Email]
@@ -34,7 +52,9 @@ Feel free to reach out if you have questions or if you want to contribute in any
 [Email]: mailto:info@keyboardkit.com
 [Website]: https://keyboardkit.com
 [Repository]: https://github.com/keyboardkit/keyboardkit
-[Binaries]: https://keyboardkit.github.io/KeyboardKit-Binaries/
+
+[Binaries-Repo]: https://github.com/keyboardkit/KeyboardKit-Binaries/
+[Documentation]: https://keyboardkit.github.io/KeyboardKit-Documentation
+[Documentation-Repo]: https://github.com/keyboardkit/KeyboardKit-Documentation/
 [Bluesky]: https://bsky.app/profile/keyboardkit.bsky.social
 [Mastodon]: https://techhub.social/@keyboardkit
-[Sponsors]: https://github.com/sponsors/danielsaidi
