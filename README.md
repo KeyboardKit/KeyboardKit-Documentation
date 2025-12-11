@@ -2,12 +2,6 @@
     <img src="Resources/Icon.png" alt="Project Icon" width="250" />
 </p>
 
-<p align="center">
-    <img src="https://img.shields.io/github/v/release/KeyboardKit/KeyboardKit-Binaries?color=forestgreen&sort=semver" alt="Version" />
-    <img src="https://img.shields.io/badge/swift-5.9-orange.svg" alt="Swift 5.9" />
-    <a href="https://keyboardkit.github.io/KeyboardKit-Documentation"><img src="https://img.shields.io/badge/documentation-web-blue.svg" alt="Documentation" /></a>
-</p>
-
 
 # KeyboardKit Documentation
 
@@ -26,7 +20,7 @@ The [KeyboardKit repository][Repository] has a Swift Package that can be used to
 
 ## Binaries
 
-The [KeyboardKit Binaries repository][Binaries-repo] is used to store binary builds for each version of the KeyboardKit SDK.
+The [KeyboardKit Binaries repository][Binaries] is used to store binary builds for each version of the KeyboardKit SDK.
 
 
 ## Documentation
@@ -53,8 +47,7 @@ Feel free to reach out if you have any questions:
 [Website]: https://keyboardkit.com
 [Repository]: https://github.com/keyboardkit/keyboardkit
 
-[Binaries-Repo]: https://github.com/keyboardkit/KeyboardKit-Binaries/
-[Documentation]: https://keyboardkit.github.io/KeyboardKit-Documentation
-[Documentation-Repo]: https://github.com/keyboardkit/KeyboardKit-Documentation/
+[Binaries]: https://github.com/keyboardkit/KeyboardKit-Binaries/
+[Documentation]: https://docs.keyboardkit.com
 [Bluesky]: https://bsky.app/profile/keyboardkit.bsky.social
 [Mastodon]: https://techhub.social/@keyboardkit
