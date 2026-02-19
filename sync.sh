@@ -19,6 +19,6 @@ rsync -av "$SRC/" .
 
 git add -A
 git commit --amend --no-edit --allow-empty
-# git commit -am "Add DocC documentation"
+git push -f
 
 echo "Done."
